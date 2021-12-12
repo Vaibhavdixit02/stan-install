@@ -1,0 +1,3 @@
+name: Stan installer
+description: Installs cmdstan v2.26.1 for CI
+author: https://github.com/vaibhavdixit02
